@@ -1,0 +1,9 @@
+{
+  "client_id": "https://marcushilmersson.github.io/career-agent-client/cimd.json",
+  "client_name": "Career assistant (personal)",
+  "client_uri": "https://github.com/marcushilmersson",
+  "redirect_uris": ["http://127.0.0.1:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
